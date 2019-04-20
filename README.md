@@ -1,7 +1,7 @@
 # CityBike_Analytics
 
 
-Used One Year data for Jersey City to Analyze following-
+Used 2018 data for Jersey City to Analyze following-
 How many trips have been recorded total during the chosen period?
 
 * By what percentage has total ridership grown? 
